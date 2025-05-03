@@ -1,0 +1,4 @@
+:root {
+  --primary: 0 0% 0%;              /* black in HSL */
+  --primary-foreground: 0 0% 100%; /* white in HSL */
+}
